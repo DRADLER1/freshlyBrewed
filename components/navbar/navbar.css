@@ -1,0 +1,53 @@
+.NavContainer {
+  position: fixed;
+  padding-left: 5%;
+  padding-right: 5%;
+  display: flex;
+  height: 10%;
+  
+  min-width: 100%;
+  
+  align-items: center;
+  justify-content: space-between;
+  z-index: 100;
+}
+
+.mainLogo {
+  width: 185px;
+  display: flex;
+  gap: 20px;
+}
+
+.navP {
+  padding-top: 5px;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.link_buttonContainer {
+  display: flex;
+  width: 60%;
+  gap:40px;
+  justify-content: space-between;
+}
+.linkContainer {
+  display: flex;
+  width: 80%;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21px;
+}
+
+.navbutton {
+  width: 150px;
+  height: 50px;
+  border-radius: 218px;
+  font-size: 20px;
+  font-weight: 500;
+  
+}

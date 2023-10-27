@@ -1,0 +1,23 @@
+.FooterContainer{
+    min-height: 50vh;
+    height: 50vh;
+    width: 100%;
+    padding-left: 75px;
+    padding-right: 75px;
+    display: flex;
+    padding-top: 80px;
+    justify-content: space-between;
+    
+}
+
+.fp{
+    margin-top: 20px;
+}
+.Fcontent{
+    width: 20%;
+}
+
+.pm{
+    margin-top: 15px;
+}
+
